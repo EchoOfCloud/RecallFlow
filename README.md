@@ -31,6 +31,10 @@
 
 ![阿里云ESA](https://img.alicdn.com/imgextra/i3/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png)
 
+## 在线访问
+
+项目在线地址：recallflow.bbd0e568.er.aliyun-esa.net
+
 ## 快速开始
 
 1. 直接打开 `index.html` 文件即可使用
